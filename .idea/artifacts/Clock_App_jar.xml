@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Clock-App:jar">
+    <output-path>$PROJECT_DIR$/../../../</output-path>
+    <root id="archive" name="Clock-App.jar">
+      <element id="module-output" name="Clock-App" />
+    </root>
+  </artifact>
+</component>
